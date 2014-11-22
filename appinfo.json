@@ -1,0 +1,25 @@
+{
+    "appKeys": {},
+    "capabilities": [
+        ""
+    ],
+    "companyName": "hiroshi.chiyokawa@gmail.com",
+    "longName": "test_image",
+    "projectType": "native",
+    "resources": {
+        "media": [
+            {
+                "file": "images/bitch.png",
+                "name": "IMAGE_NO_LITTER",
+                "type": "png"
+            }
+        ]
+    },
+    "shortName": "test_image",
+    "uuid": "6450645e-2936-4be1-bd57-a02e052c2d6a",
+    "versionCode": 1,
+    "versionLabel": "1.0",
+    "watchapp": {
+        "watchface": false
+    }
+}
